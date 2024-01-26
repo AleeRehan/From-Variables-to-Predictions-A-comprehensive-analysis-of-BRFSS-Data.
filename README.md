@@ -8,7 +8,7 @@ This data analytics project explores the realm of stroke risk factors through a 
 
 2. **Hypothesis Testing:** Formulate and test hypotheses to discern significant associations between various risk factors and the likelihood of stroke. Rigorous statistical tests provide a solid foundation for identifying influential variables.
 
-3. **Logistic Regression:** Employ logistic regression models to build a predictive framework for stroke risk. Explore the predictive power of selected variables and assess the model's performance in capturing and forecasting stroke occurrences.
+3. **Logistic Regression:** Employ logistic regression models to build a predictive framework for stroke risk. Explore the predictive power of selected variables in forecasting stroke occurrences.
 
 ## Technologies Used:
 
