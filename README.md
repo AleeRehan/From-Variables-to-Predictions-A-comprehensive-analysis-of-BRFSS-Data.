@@ -1,4 +1,4 @@
-# From Variables to Predictions: A comprehensive analysis of BRFSS Data.
+# <center>From Variables to Predictions: A comprehensive analysis of BRFSS Data</center>.
 ## Description:
 This data analytics project explores the realm of stroke risk factors through a detailed examination of the Behavioral Risk Factors and Surveillance System (BRFSS) dataset. The project unfolds in three main phases: Exploratory Data Analysis (EDA), Hypothesis Testing, and Logistic Regression.
 
@@ -15,7 +15,7 @@ This data analytics project explores the realm of stroke risk factors through a 
 - Python for data manipulation, analysis, and visualization.
 - Popular libraries like Pandas, Matplotlib, Seaborn, and NumPy.
 - Statistical methods and hypothesis testing techniques.
-- Scikit-learn for implementing logistic regression models.
+- statsmodels.api for implementing logistic regression models.
 
 ## Outcome:
 This project culminates in a holistic understanding of stroke risk factors, derived from a meticulous analysis of the BRFSS dataset. The predictive models established provide valuable insights for healthcare professionals and researchers, contributing to the ongoing efforts to mitigate stroke risks and improve public health.
